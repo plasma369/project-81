@@ -1,0 +1,11 @@
+#canvas
+{
+    border-style: ridge;
+    border-width: 10px;
+    background-color: white;
+}
+
+body
+{
+    background-image: url("https://www.consumercredit.com/wp-content/uploads/2014/02/Olympic-Rings-1.jpg");
+}
